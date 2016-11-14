@@ -24,5 +24,6 @@ Di seguito un breve tutorial per capire di cosa si tratta.
 1. [Costruzione](./tutorials/costruzione.md)
 
 ###DotBot ROS
+1. [Setup](./tutorials/setup.md)
 1. [Publisher](./tutorials/connessione.md)
 2. [Subscriber](./tutorials/subscriber.md)
