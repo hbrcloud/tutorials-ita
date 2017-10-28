@@ -111,7 +111,7 @@ print 'nodo terminato'
 
 Inseriamo questo codice all'interno dell'IDE di programmazione, salviamo e premiamo il tasto _run_. A questo punto, si aprirà una pagina nera (**shell**), che inizierà a scrivere le frasi `'Led 1 -> Acceso'` e `'Led 1 -> Spento'` alternate ad intervalli di mezzo secondo (500 millisecondi). Contemporaneamente all'apparizione di una frase, il led del DotBot si accenderà o spegnerà di conseguenza.
 
-Andando nella pagina **console** della webapp possiamo vedere due cose. Prima di tutto, aprendo il tab del topic `dotbot/led` vedremo che le informazioni venogno inviate a intervalli di 500ms in corrispondenza dell'effettiva accensione o spegnimento del led. Inoltre, all'interno della lista di nodi, vedremo apparire il nodo `led_controller`, che è il nodo che abbiamo appena creato. Per terminare il nodo, basterà cliccare sul tasto **kill node**. Vedremo quindi sulla **shell** la scritta `nodo terminato` e il smettere di lampeggiare.
+Andando nella pagina **console** della webapp possiamo vedere due cose. Prima di tutto, aprendo il tab del topic `dotbot/led` vedremo che le informazioni vengono inviate a intervalli di 500ms in corrispondenza dell'effettiva accensione o spegnimento del led. Inoltre, all'interno della lista di nodi, vedremo apparire il nodo `led_controller`, che è il nodo che abbiamo appena creato. Per terminare il nodo, basterà cliccare sul tasto **kill node**. Vedremo quindi sulla **shell** la scritta `nodo terminato` e il smettere di lampeggiare.
 
 ![alt text](../img/example1.gif "Logo Title Text 1")
 
